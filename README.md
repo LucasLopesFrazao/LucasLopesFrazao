@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋! Sou o Lucas Frazão, um desenvolvedor Full Stack brasileiro 🇧🇷</h1>
+<h1 align="left">Olá 👋! Sou o Lucas Frazão, desenvolvedor Full Stack 🇧🇷 </h1>
 
 ###
 
