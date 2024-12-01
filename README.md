@@ -1,13 +1,13 @@
-<h1 align="left">Olá 👋! Sou o Lucas Frazão, um desenvolvedor Full Stack em Brasília!</h1>
+<h1 align="left">Olá 👋! Sou o Lucas Frazão, um desenvolvedor Full Stack brasileiro 🇧🇷</h1>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLopesFrazao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="125" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=LucasLopesFrazao&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="125" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasLopesFrazao&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLopesFrazao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LucasLopesFrazao&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasLopesFrazao&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 ###
